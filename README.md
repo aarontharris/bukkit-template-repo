@@ -1,6 +1,3 @@
-bukkit-template-repo
+CraftBukkit Plugin Template
 ====================
-
-Bukkit Plugin Template
-
 I created this to serve as a starting point for future plugins.
